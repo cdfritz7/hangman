@@ -1,1 +1,2 @@
-# This is written as a test of pull
+# This is a simple text based hangman game written in python
+# The word to guess is 'cat'
